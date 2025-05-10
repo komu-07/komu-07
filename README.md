@@ -1,3 +1,5 @@
+Web Developer || Frontend Developer || React Developer 
+
 - 👋 Hi, I’m Sanjeevni
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Javascript and React.js
