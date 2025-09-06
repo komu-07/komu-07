@@ -1,7 +1,7 @@
 Web Developer || Frontend Developer || React Developer 
 
 - 👋 Hi, I’m Sanjeevni
-- 👀 I’m interested in Development
+- 👀 I’m a passionate Web Developer
 - 🌱 I’m currently learning Javascript and React.js
 - 📫 Reach me out at - sanjeevniraj2001@gmail.com
 
